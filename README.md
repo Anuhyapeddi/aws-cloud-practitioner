@@ -2,6 +2,7 @@
 key concepts of AWS
 
 Frameworks
+
 Q. What is Cloud Adoption Framework?
 Cloud adoption framework uses AWS to digitally transform and accelerate business outcomes.
 
